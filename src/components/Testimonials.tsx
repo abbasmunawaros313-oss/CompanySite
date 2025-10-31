@@ -3,13 +3,13 @@ import { motion, AnimatePresence } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
 import { QuoteIcon } from 'lucide-react';
 const testimonials = [{
-  quote: 'Working with [My Software Company Name] was a game-changer. They delivered on time and exceeded our every expectation.',
+  quote: 'Working with Ignite solutions was a game-changer. They delivered on time and exceeded our every expectation.',
   name: 'Munawar Abbas',
   title: 'CEO, ExampleCo'
 }, {
   quote: 'The level of expertise and professionalism was outstanding. Our app now has over 1 million active users thanks to their work.',
-  name: 'John Smith',
-  title: 'CTO,  Abbas Ali'
+  name: 'Abbas Ali',
+  title: 'CTO,  '
 }, {
   quote: 'They transformed our outdated system into a modern, scalable platform. The results speak for themselves - 300% increase in efficiency.',
   name: 'Fayyaz Ahamad',
